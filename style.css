@@ -20,7 +20,7 @@ body {
     text-rendering: optimizeLegibility;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/382994/image.jpg");
+    background-image: url(apple_mac_os_x_el_capitan.jpg);
     background-size: cover;
     background-repeat: none;
 }
